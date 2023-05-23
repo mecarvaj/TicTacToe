@@ -1,0 +1,17 @@
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.exe
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.deps.json
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.runtimeconfig.json
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.pdb
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.AssemblyReference.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.GenerateResource.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfo.cs
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\refint\TicTacToe.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.pdb
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.genruntimeconfig.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\ref\TicTacToe.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 13\TicTacToe\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.fTicTacToe.resources
