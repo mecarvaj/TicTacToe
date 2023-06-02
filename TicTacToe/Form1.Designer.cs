@@ -44,6 +44,7 @@
             // 
             // pGame
             // 
+            pGame.BackColor = SystemColors.ControlLightLight;
             pGame.Controls.Add(b3x3);
             pGame.Controls.Add(b3x2);
             pGame.Controls.Add(b3x1);
@@ -203,6 +204,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(534, 511);
             Controls.Add(bReset);
             Controls.Add(pGame);

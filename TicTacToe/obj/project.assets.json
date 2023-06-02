@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos (D)\\Cenfotec\\Cenfotec\\Fundamentos de C++ y C#\\Clases\\Clase 13\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\Importante\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "D:\\Documentos (D)\\Cenfotec\\Cenfotec\\Fundamentos de C++ y C#\\Clases\\Clase 13\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "D:\\Importante\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos (D)\\Cenfotec\\Cenfotec\\Fundamentos de C++ y C#\\Clases\\Clase 13\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "D:\\Importante\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"
