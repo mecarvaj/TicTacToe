@@ -62,7 +62,7 @@
             // b3x3
             // 
             b3x3.FlatAppearance.BorderColor = Color.White;
-            b3x3.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b3x3.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b3x3.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b3x3.FlatStyle = FlatStyle.Flat;
             b3x3.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -76,7 +76,7 @@
             // b3x2
             // 
             b3x2.FlatAppearance.BorderColor = Color.White;
-            b3x2.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b3x2.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b3x2.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b3x2.FlatStyle = FlatStyle.Flat;
             b3x2.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -90,7 +90,7 @@
             // b3x1
             // 
             b3x1.FlatAppearance.BorderColor = Color.White;
-            b3x1.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b3x1.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b3x1.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b3x1.FlatStyle = FlatStyle.Flat;
             b3x1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -104,7 +104,7 @@
             // b2x3
             // 
             b2x3.FlatAppearance.BorderColor = Color.White;
-            b2x3.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b2x3.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b2x3.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b2x3.FlatStyle = FlatStyle.Flat;
             b2x3.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -118,7 +118,7 @@
             // b2x2
             // 
             b2x2.FlatAppearance.BorderColor = Color.White;
-            b2x2.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b2x2.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b2x2.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b2x2.FlatStyle = FlatStyle.Flat;
             b2x2.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -132,7 +132,7 @@
             // b2x1
             // 
             b2x1.FlatAppearance.BorderColor = Color.White;
-            b2x1.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b2x1.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b2x1.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b2x1.FlatStyle = FlatStyle.Flat;
             b2x1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -146,7 +146,7 @@
             // b1x3
             // 
             b1x3.FlatAppearance.BorderColor = Color.White;
-            b1x3.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b1x3.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b1x3.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b1x3.FlatStyle = FlatStyle.Flat;
             b1x3.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -160,7 +160,7 @@
             // b1x2
             // 
             b1x2.FlatAppearance.BorderColor = Color.White;
-            b1x2.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b1x2.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b1x2.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b1x2.FlatStyle = FlatStyle.Flat;
             b1x2.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
@@ -174,7 +174,7 @@
             // b1x1
             // 
             b1x1.FlatAppearance.BorderColor = Color.White;
-            b1x1.FlatAppearance.MouseDownBackColor = Color.IndianRed;
+            b1x1.FlatAppearance.MouseDownBackColor = Color.RosyBrown;
             b1x1.FlatAppearance.MouseOverBackColor = Color.MistyRose;
             b1x1.FlatStyle = FlatStyle.Flat;
             b1x1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
